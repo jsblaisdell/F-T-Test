@@ -11,7 +11,7 @@ We want to see your skills, specifically:
 * Modularity
 * Attention to detail
 
-As a requirement, the module should look good on any device and work properly.
+As a requirement, the module should look good on any device and work properly. There should be at least one more element to select. Doesn't have to be pixel perfect and you're free to use placeholder text instead of what's on the design. 
 
 To simplify the task, you can simulate that the form takes two seconds to submit and randomly notify that it has been submitted correctly, or that an error has occurred.    
 
