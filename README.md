@@ -15,8 +15,10 @@ As a requirement, the module should look good on any device and work properly. T
 
 To simplify the task, you can simulate that the form takes two seconds to submit and randomly notify that it has been submitted correctly, or that an error has occurred.    
 
-Use either plain JavaScript or React but no other libraries since there should be no need these days. If you're taking the React route, please `useHooks` as that's what we would like to assess.
+Use either plain JavaScript or React but no other libraries since there should be no need these days. If you're taking the React route, please `useHooks` as that's what we would like to assess. It is fine though (and even encouraged) to use [Create React App](https://github.com/facebook/create-react-app#creating-an-app) if you're taking the React path. 
 
 ![Composition](/assets/composition.png)
+
+Ideally, it should be delivered as if the only thing missing was the endpoint to which send this information to so everything else should be wired.
 
 You might find a Sketch file too on the [assets](/assets) which you might be able to use on a Mac or you could use [Lunacy](https://icons8.com/lunacy) in Windows.
