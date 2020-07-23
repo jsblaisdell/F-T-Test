@@ -15,7 +15,7 @@ As a requirement, the module should look good on any device and work properly. T
 
 To simplify the task, you can simulate that the form takes two seconds to submit and randomly notify that it has been submitted correctly, or that an error has occurred.    
 
-Use either plain JavaScript or React but no other libraries since there should be no need these days. If you're taking the React route, please `useHooks` as that's what we would like to assess. It is fine though (and even encouraged) to use [Create React App](https://github.com/facebook/create-react-app#creating-an-app) if you're taking the React path. 
+Use either plain JavaScript (no TypeScript) or React. The usage of any other library is **completely discouraged** since there should be no need these days. If you're taking the React route, please `useHooks` as that's what we would like to assess. It is fine though (and even encouraged) to use [Create React App](https://github.com/facebook/create-react-app#creating-an-app) if you're taking the React path. 
 
 ![Composition](/assets/composition.png)
 
