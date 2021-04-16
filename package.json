@@ -1,0 +1,27 @@
+{
+  "name": "first-and-third",
+  "version": "1.0.0",
+  "description": "Well hello there! 👋",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firstandthird/frontend-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/firstandthird/frontend-challenge/issues"
+  },
+  "homepage": "https://github.com/firstandthird/frontend-challenge#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.14",
+    "gulp-sass": "^4.1.0",
+    "node-sass": "^5.0.0"
+  },
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
+}
